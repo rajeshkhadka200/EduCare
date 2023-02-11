@@ -1,0 +1,60 @@
+D:\C#\Student Management System\bin\Debug\net7.0\Student Management System.exe
+D:\C#\Student Management System\bin\Debug\net7.0\Student Management System.deps.json
+D:\C#\Student Management System\bin\Debug\net7.0\Student Management System.runtimeconfig.json
+D:\C#\Student Management System\bin\Debug\net7.0\Student Management System.dll
+D:\C#\Student Management System\bin\Debug\net7.0\Student Management System.pdb
+D:\C#\Student Management System\obj\Debug\net7.0\Student Management System.csproj.AssemblyReference.cache
+D:\C#\Student Management System\obj\Debug\net7.0\Student Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Student Management System\obj\Debug\net7.0\Student Management System.AssemblyInfoInputs.cache
+D:\C#\Student Management System\obj\Debug\net7.0\Student Management System.AssemblyInfo.cs
+D:\C#\Student Management System\obj\Debug\net7.0\Student Management System.csproj.CoreCompileInputs.cache
+D:\C#\Student Management System\obj\Debug\net7.0\Student Management System.dll
+D:\C#\Student Management System\obj\Debug\net7.0\refint\Student Management System.dll
+D:\C#\Student Management System\obj\Debug\net7.0\Student Management System.pdb
+D:\C#\Student Management System\obj\Debug\net7.0\Student Management System.genruntimeconfig.cache
+D:\C#\Student Management System\obj\Debug\net7.0\ref\Student Management System.dll
+D:\C#\Student Management System\bin\Debug\net7.0\AWSSDK.Core.dll
+D:\C#\Student Management System\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+D:\C#\Student Management System\bin\Debug\net7.0\DnsClient.dll
+D:\C#\Student Management System\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#\Student Management System\bin\Debug\net7.0\MongoDB.Bson.dll
+D:\C#\Student Management System\bin\Debug\net7.0\MongoDB.Driver.dll
+D:\C#\Student Management System\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+D:\C#\Student Management System\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+D:\C#\Student Management System\bin\Debug\net7.0\SharpCompress.dll
+D:\C#\Student Management System\bin\Debug\net7.0\Snappier.dll
+D:\C#\Student Management System\bin\Debug\net7.0\ZstdSharp.dll
+D:\C#\Student Management System\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+D:\C#\Student Management System\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+D:\C#\Student Management System\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+D:\C#\Student Management System\obj\Debug\net7.0\Student Management System.csproj.CopyComplete
+D:\student-management-system\Student Management System\bin\Debug\net7.0\Student Management System.exe
+D:\student-management-system\Student Management System\bin\Debug\net7.0\Student Management System.deps.json
+D:\student-management-system\Student Management System\bin\Debug\net7.0\Student Management System.runtimeconfig.json
+D:\student-management-system\Student Management System\bin\Debug\net7.0\Student Management System.dll
+D:\student-management-system\Student Management System\bin\Debug\net7.0\Student Management System.pdb
+D:\student-management-system\Student Management System\bin\Debug\net7.0\AWSSDK.Core.dll
+D:\student-management-system\Student Management System\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+D:\student-management-system\Student Management System\bin\Debug\net7.0\DnsClient.dll
+D:\student-management-system\Student Management System\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\student-management-system\Student Management System\bin\Debug\net7.0\MongoDB.Bson.dll
+D:\student-management-system\Student Management System\bin\Debug\net7.0\MongoDB.Driver.dll
+D:\student-management-system\Student Management System\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+D:\student-management-system\Student Management System\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+D:\student-management-system\Student Management System\bin\Debug\net7.0\SharpCompress.dll
+D:\student-management-system\Student Management System\bin\Debug\net7.0\Snappier.dll
+D:\student-management-system\Student Management System\bin\Debug\net7.0\ZstdSharp.dll
+D:\student-management-system\Student Management System\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+D:\student-management-system\Student Management System\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+D:\student-management-system\Student Management System\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+D:\student-management-system\Student Management System\obj\Debug\net7.0\Student Management System.csproj.AssemblyReference.cache
+D:\student-management-system\Student Management System\obj\Debug\net7.0\Student Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\student-management-system\Student Management System\obj\Debug\net7.0\Student Management System.AssemblyInfoInputs.cache
+D:\student-management-system\Student Management System\obj\Debug\net7.0\Student Management System.AssemblyInfo.cs
+D:\student-management-system\Student Management System\obj\Debug\net7.0\Student Management System.csproj.CoreCompileInputs.cache
+D:\student-management-system\Student Management System\obj\Debug\net7.0\Student Management System.csproj.CopyComplete
+D:\student-management-system\Student Management System\obj\Debug\net7.0\Student Management System.dll
+D:\student-management-system\Student Management System\obj\Debug\net7.0\refint\Student Management System.dll
+D:\student-management-system\Student Management System\obj\Debug\net7.0\Student Management System.pdb
+D:\student-management-system\Student Management System\obj\Debug\net7.0\Student Management System.genruntimeconfig.cache
+D:\student-management-system\Student Management System\obj\Debug\net7.0\ref\Student Management System.dll
