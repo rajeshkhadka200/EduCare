@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lixpqsuv4B257Sx6vpYqqSpREqAdfJi6UwPL/pT5VE3xeFEWga7Effl+cKLAVG5pMvV5Fi7eLZUBBorZY9+Xgg==",
+  "dgSpecHash": "eKQECRe+vi10h0mMZ+N9IwAOhOn6BNjEPe5OB+JdxX6v2WFdztHsfGjxGK0vzijaQSEttgFsaktoRPz4iMDqpA==",
   "success": true,
-  "projectFilePath": "D:\\student-management-system\\Student Management System\\Student Management System.csproj",
+  "projectFilePath": "D:\\sms-csharp\\Student Management System.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dell\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

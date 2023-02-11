@@ -58,3 +58,33 @@ D:\student-management-system\Student Management System\obj\Debug\net7.0\refint\S
 D:\student-management-system\Student Management System\obj\Debug\net7.0\Student Management System.pdb
 D:\student-management-system\Student Management System\obj\Debug\net7.0\Student Management System.genruntimeconfig.cache
 D:\student-management-system\Student Management System\obj\Debug\net7.0\ref\Student Management System.dll
+D:\sms-csharp\bin\Debug\net7.0\Student Management System.exe
+D:\sms-csharp\bin\Debug\net7.0\Student Management System.deps.json
+D:\sms-csharp\bin\Debug\net7.0\Student Management System.runtimeconfig.json
+D:\sms-csharp\bin\Debug\net7.0\Student Management System.dll
+D:\sms-csharp\bin\Debug\net7.0\Student Management System.pdb
+D:\sms-csharp\bin\Debug\net7.0\AWSSDK.Core.dll
+D:\sms-csharp\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+D:\sms-csharp\bin\Debug\net7.0\DnsClient.dll
+D:\sms-csharp\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sms-csharp\bin\Debug\net7.0\MongoDB.Bson.dll
+D:\sms-csharp\bin\Debug\net7.0\MongoDB.Driver.dll
+D:\sms-csharp\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+D:\sms-csharp\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+D:\sms-csharp\bin\Debug\net7.0\SharpCompress.dll
+D:\sms-csharp\bin\Debug\net7.0\Snappier.dll
+D:\sms-csharp\bin\Debug\net7.0\ZstdSharp.dll
+D:\sms-csharp\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+D:\sms-csharp\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+D:\sms-csharp\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+D:\sms-csharp\obj\Debug\net7.0\Student Management System.csproj.AssemblyReference.cache
+D:\sms-csharp\obj\Debug\net7.0\Student Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\sms-csharp\obj\Debug\net7.0\Student Management System.AssemblyInfoInputs.cache
+D:\sms-csharp\obj\Debug\net7.0\Student Management System.AssemblyInfo.cs
+D:\sms-csharp\obj\Debug\net7.0\Student Management System.csproj.CoreCompileInputs.cache
+D:\sms-csharp\obj\Debug\net7.0\Student Management System.csproj.CopyComplete
+D:\sms-csharp\obj\Debug\net7.0\Student Management System.dll
+D:\sms-csharp\obj\Debug\net7.0\refint\Student Management System.dll
+D:\sms-csharp\obj\Debug\net7.0\Student Management System.pdb
+D:\sms-csharp\obj\Debug\net7.0\Student Management System.genruntimeconfig.cache
+D:\sms-csharp\obj\Debug\net7.0\ref\Student Management System.dll
