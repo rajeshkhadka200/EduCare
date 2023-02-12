@@ -10,6 +10,11 @@ namespace Program
                 StreamWriter writer = new StreamWriter("db.txt", true);
                 Console.Write("Enter the number of students you want to create : ");
                 int numofStudents = Convert.ToInt32(Console.ReadLine());
+                if (numofStudents < 0)
+                {
+                    Console.WriteLine("Invalid number of students");
+                    return;
+                }
                 Console.WriteLine(" ");
                 for (int i = 0; i < numofStudents; i++)
                 {
@@ -62,43 +67,44 @@ namespace Program
         public void updateStudent()
 
         {
-            try
-            {
-                Console.Write("Enter the roll number of the student to update : ");
-                int roll = Convert.ToInt32(Console.ReadLine());
-                StreamReader reader = new StreamReader("db.txt");
-                string line = reader.ReadLine();
-                if (line == null)
-                {
-                    Console.WriteLine("No data found");
-                    return;
-                }
-                while (line != null)
-                {
-                    if (line.Contains("Roll: " + roll))
-                    {
-                        Console.Write("Enter the new name of the student : ");
-                        string name = Console.ReadLine();
-                        Console.Write("Enter the new roll number of the student : ");
-                        int newroll = Convert.ToInt32(Console.ReadLine());
-                        string toWrite = "\n{ \n Name: " + name + ", \n Roll: " + newroll + "\n}";
-                        StreamWriter writer = new StreamWriter("db.txt", true);
-                        writer.WriteLine(toWrite);
-                        writer.Close();
-                    }
+            Console.WriteLine("Sorry, this feature is not available yet 😂");
+            // try
+            // {
+            //     Console.Write("Enter the roll number of the student to update : ");
+            //     int roll = Convert.ToInt32(Console.ReadLine());
+            //     StreamReader reader = new StreamReader("db.txt");
+            //     string line = reader.ReadLine();
+            //     if (line == null)
+            //     {
+            //         Console.WriteLine("No data found");
+            //         return;
+            //     }
+            //     while (line != null)
+            //     {
+            //         if (line.Contains("Roll: " + roll))
+            //         {
+            //             Console.Write("Enter the new name of the student : ");
+            //             string name = Console.ReadLine();
+            //             Console.Write("Enter the new roll number of the student : ");
+            //             int newroll = Convert.ToInt32(Console.ReadLine());
+            //             string toWrite = "\n{ \n Name: " + name + ", \n Roll: " + newroll + "\n}";
+            //             StreamWriter writer = new StreamWriter("db.txt", true);
+            //             writer.WriteLine(toWrite);
+            //             writer.Close();
+            //         }
 
-                }
-                reader.Close();
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine("Exception: " + e.Message);
-            }
-            finally
-            {
-                Console.WriteLine("-----------------------");
-                Console.WriteLine("Data updated successfully");
-            }
+            //     }
+            //     reader.Close();
+            // }
+            // catch (Exception e)
+            // {
+            //     Console.WriteLine("Exception: " + e.Message);
+            // }
+            // finally
+            // {
+            //     Console.WriteLine("-----------------------");
+            //     Console.WriteLine("Data updated successfully");
+            // }
         }
         public void deleteallData()
         {
@@ -150,8 +156,7 @@ namespace Program
 
         public void deleteIndividual()
         {
-
-
+            Console.WriteLine("Sorry, this feature is not available yet 😂");
         }
 
         public void getList()
