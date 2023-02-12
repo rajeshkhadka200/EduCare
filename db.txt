@@ -19,3 +19,18 @@
  Name: rajesh khadka, 
  Roll: 25
 }
+
+{ 
+ Name: Rajesh Khadka, 
+ Roll: 34
+}
+
+{ 
+ Name: Ramkumar mallah, 
+ Roll: 35
+}
+
+{ 
+ Name: Riyana Khad, 
+ Roll: 36
+}
