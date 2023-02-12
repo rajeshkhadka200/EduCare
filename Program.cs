@@ -64,6 +64,38 @@ namespace Program
                 Console.WriteLine("Exception: " + e.Message);
             }
         }
+
+        public void readbyRoll()
+        {
+            try
+            {
+                Console.Write("Enter the roll number of the student to read : ");
+                int roll = Convert.ToInt32(Console.ReadLine());
+                StreamReader reader = new StreamReader("db.txt");
+                string line = reader.ReadLine();
+                if (line == null)
+                {
+                    Console.WriteLine("No data found");
+                    return;
+                }
+                line = reader.ReadLine();
+                while (line != null)
+                {
+                    if (line.Contains("Roll: " + roll) || line.Contains("(" + roll + ")"))
+                    {
+
+                        Console.WriteLine(line);
+                    }
+                    line = reader.ReadLine();
+                }
+                reader.Close();
+                Console.WriteLine(" ");
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Exception: " + e.Message);
+            }
+        }
         public void updateStudent()
 
         {
@@ -167,7 +199,8 @@ namespace Program
             Console.WriteLine("Enter 4 to all delete data");
             Console.WriteLine("Enter 5 to count number of students");
             Console.WriteLine("Enter 6 to delete individual student");
-            Console.WriteLine("Enter 7 to exit");
+            Console.WriteLine("Enter 7 to read by individual student Roll number");
+            Console.WriteLine("Enter 8 to exit");
             Console.WriteLine("-----------------------------");
         }
         static void Main(string[] args)
@@ -206,8 +239,12 @@ namespace Program
                 {
                     obj.deleteIndividual();
                 }
-
                 if (choice == 7)
+                {
+                    obj.readbyRoll();
+                }
+
+                if (choice == 8)
                 {
                     Console.Write("Exiting the program...");
                     return;
