@@ -41,6 +41,9 @@ This is very simple, it's not an application that solve the big real woarld prob
 - 🚀🚀
 
 ---------------------------------------------------------------
+### Documentation 
+[Visit the docx](https://docs.google.com/document/d/1juejRKTgkZErkgXAxFGX3De42vNjmJNb-_1kfRhhoVs/edit)
 
+---------------------------------------------------------------
 ### Want to contribute ? 🖥
 Note : We encourage pull requests. To discuss what you would like to alter before making any significant modifications, kindly raise an issue first.
