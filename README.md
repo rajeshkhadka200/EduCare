@@ -43,6 +43,8 @@ This is very simple, it's not an application that solve the big real woarld prob
 ---------------------------------------------------------------
 ### Documentation 
 [Visit the docx](https://docs.google.com/document/d/1juejRKTgkZErkgXAxFGX3De42vNjmJNb-_1kfRhhoVs/edit)
+[PPT](https://1drv.ms/p/s!AilccaVYUZ0QgR-xwM5RPiWW22Yv?e=23cmcT)
+[EXE file](https://1drv.ms/p/s!AilccaVYUZ0QgR-xwM5RPiWW22Yv?e=23cmcT)
 
 ---------------------------------------------------------------
 ### Want to contribute ? 🖥
