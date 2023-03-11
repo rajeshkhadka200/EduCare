@@ -46,7 +46,7 @@ This is very simple, it's not an application that solve the big real woarld prob
 
 [PPT](https://1drv.ms/p/s!AilccaVYUZ0QgR-xwM5RPiWW22Yv?e=23cmcT)
 
-[EXE file](https://1drv.ms/p/s!AilccaVYUZ0QgR-xwM5RPiWW22Yv?e=23cmcT)
+[EXE file](https://drive.google.com/file/d/1hSAGORntVV9GlHvmvcz3_kENi-k-Jhm6/view?usp=sharing)
 
 ---------------------------------------------------------------
 ### Want to contribute ? 🖥
